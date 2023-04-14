@@ -9,6 +9,7 @@ These are most likely him, that's most likely his IP address. Click on `diff` to
 * [July, 29 2018](https://en.wikipedia.org/wiki/Special:Contributions/74.103.149.238)
 * [February 23, 2019](https://en.wikipedia.org/wiki/Special:Contributions/72.94.81.68)
 * [July, 2 2021](https://en.wikipedia.org/wiki/Special:Contributions/108.52.172.227)
+* [December 18, 2021](https://en.wikipedia.org/wiki/Special:Contributions/108.52.165.45) he made himself a data scientist here, again, with no formal training whatsoever. anyone can wikipedia, even jason moore.
 
 Aside: He's updating [his own Wikipedia page](https://en.wikipedia.org/w/index.php?title=Jason_H._Moore&action=history) because no one else will :joy: 
 
