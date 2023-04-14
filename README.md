@@ -8,6 +8,7 @@ These are most likely him, that's most likely his IP address. Click on `diff` to
    * [August 29, 2017](https://en.wikipedia.org/w/index.php?title=Jason_H._Moore&diff=prev&oldid=797753654&diffmode=source) diffs are pennai and automl & i called you August 26, 2017 so did he know about that?
 * [July, 29 2018](https://en.wikipedia.org/wiki/Special:Contributions/74.103.149.238)
 * [February 23, 2019](https://en.wikipedia.org/wiki/Special:Contributions/72.94.81.68)
+   * [his edits including his link to his twitter were removed LOL](https://en.wikipedia.org/w/index.php?title=Jason_H._Moore&diff=prev&oldid=884747414&diffmode=source)
 * [July, 2 2021](https://en.wikipedia.org/wiki/Special:Contributions/108.52.172.227)
 * [December 18, 2021](https://en.wikipedia.org/wiki/Special:Contributions/108.52.165.45) he made himself a data scientist here, again, with no formal training whatsoever. anyone can wikipedia, even jason moore.
 
