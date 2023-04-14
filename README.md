@@ -7,7 +7,7 @@ These are most likely him, that's most likely his IP address. Click on `diff` to
     * from the article ""Commercial AI packages don't make the source code available, and you have no idea what's going on in there," said Moore. "That's one of the benefits of an open source AI package: everyone can see what it's doing." "you have no idea what's going on in there" yeah no ... that's not true. it's sometimes true, but generally not true
     * "Moore hopes to also implement a Clippy-like virtual assistant to guide users." i wonder wtf this was supposed to be and who was supposed to work on it lol
 * [August 29, 2017 & Sep 1, 2017 & December 17, 2017](https://en.wikipedia.org/wiki/Special:Contributions/173.49.21.194)
-   * [August 29, 2017](https://en.wikipedia.org/w/index.php?title=Jason_H._Moore&diff=prev&oldid=797753654&diffmode=source) diffs are pennai and automl & i called you August 26, 2017 so did he know about that?
+   * [August 29, 2017](https://en.wikipedia.org/w/index.php?title=Jason_H._Moore&diff=prev&oldid=797753654&diffmode=source) ohhh ooppsss 2017 not 2018, this could be related to other interviews i had in 2017 that may have reached out to him around this time.
    * [December 17, 2017](https://en.wikipedia.org/w/index.php?title=Marylyn_D._Ritchie&diff=prev&oldid=815774553&diffmode=source): I know why and to what this was changed around this time, but I won't say it here.
 * [July, 29 2018](https://en.wikipedia.org/wiki/Special:Contributions/74.103.149.238)
 * [February 23, 2019](https://en.wikipedia.org/wiki/Special:Contributions/72.94.81.68)
