@@ -14,7 +14,7 @@ These are most likely him, that's most likely his IP address. Click on `diff` to
 
 Aside: He's updating [his own Wikipedia page](https://en.wikipedia.org/w/index.php?title=Jason_H._Moore&action=history) because no one else will :joy: yeah i looked up other Professors he may be stalking ... they're not updating their own Wikipedia pages, it's getting updated by other well known Wikipedia users with actual accounts. lol sad.
 
-This dude has no friends, total freakshow incel.
+This dude has no friends, failed personal relationships (including his own marriage), total freakshow **incel**. complete and absolute, walking and talking, unmedicated and **untreated mental illness**.
 
 [A System for Accessible Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-319-90512-9_8) this is not in a top journal and it has barely any citations but ... but its supposed to be apparently the biggest breakthrough in AI so much so it elicited frivolous IP claims. Nobody cares about this, i don't care about this work.
 
