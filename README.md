@@ -17,3 +17,5 @@ Aside: He's updating [his own Wikipedia page](https://en.wikipedia.org/w/index.p
 This dude has no friends, total freakshow incel.
 
 [A System for Accessible Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-319-90512-9_8) this is not in a top journal and it has barely any citations but ... but its supposed to be apparently the biggest breakthrough in AI so much so it elicited frivolous IP claims. Nobody cares about this, i don't care about this work.
+
+4/14 - im actually really busy all day today so i will come back to this over the weekend .. this is important lawyer work .. he's legitimizing himself via wikipedia and twitter, by himself, not via other people. it's all himself, self-promotion to stay afloat in a competitive field, so pathetic.
