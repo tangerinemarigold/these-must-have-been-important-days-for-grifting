@@ -27,10 +27,12 @@ This dude has no friends, failed personal relationships (including his own marri
 * Follow random people on Twitter to bring up his follower count
 * Tweet articles that he likely doesnt completely read and use the hashtags #bioinformatics #artificialintelligence #machinelearning -- all areas he has no training in from Grad school (i.e. he never studied under a Professor who has training in this area)
 * Cite his own papers
+* Have his former/current students, people in his cult, cite his papers, their own papers etc.
 * Publish work in AI that gets 0 citations, in other words, its not interesting, no one reads it, no one cites it
 * Pursue frivolous intellectual property lawsuits/whatever
 * Stalk former employees
 * Stalk potential employers of former employees
 * Stalk perhaps the private lives of potential employers of former employees
+* Defame/slander people to make himself seem more legit and knowing of things even though he's a half-wit
 
 What is it called when you can't stop laughing but you also want to vomit at the same time from all the cringe and disgust lol, that's how I feel. [AHHH look it's Dunning-Freddy-Kruger :joy:](https://researchers.cedars-sinai.edu/Jason.Moore/photo)
