@@ -19,3 +19,16 @@ This dude has no friends, total freakshow incel.
 [A System for Accessible Artificial Intelligence](https://link.springer.com/chapter/10.1007/978-3-319-90512-9_8) this is not in a top journal and it has barely any citations but ... but its supposed to be apparently the biggest breakthrough in AI so much so it elicited frivolous IP claims. Nobody cares about this, i don't care about this work.
 
 4/14 - im actually really busy all day today so i will come back to this over the weekend .. this is important lawyer work .. he's legitimizing himself via wikipedia and twitter, by himself, not via other people. it's all himself, self-promotion to stay afloat in a competitive field, so pathetic. This **proves** that he's been spying/stalking people at wcmc and me since 2017 and he has an extreme inferiority complex and gets personally triggered by other peoples happiness and success -- that he just cant achieve for himself, ever.
+
+# How Jason Moore attempts to legitimize himself in academia: the long con
+* Publish papers to the Journal he is EIC of
+* Update his own Wikipedia page/pages :joy:
+* Recruit former students as Faculty (bc no one else will hire them)
+* Follow random people on Twitter to bring up his follower count
+* Tweet articles that he likely doesnt completely read and use the hashtags #bioinformatics #artificialintelligence #machinelearning -- all areas he has no training in from Grad school (i.e. he never studied under a Professor who has training in this area)
+* Cite his own papers
+* Publish work in AI that gets 0 citations, in other words, its not interesting, no one reads it, no one cites it
+* Pursue frivolous intellectual property lawsuits/whatever
+* Stalk former employees
+* Stalk potential employers of former employees
+* Stalk perhaps the private lives of potential employers of former employees
