@@ -32,3 +32,5 @@ This dude has no friends, total freakshow incel.
 * Stalk former employees
 * Stalk potential employers of former employees
 * Stalk perhaps the private lives of potential employers of former employees
+
+What is it called when you can't stop laughing but you also want to vomit at the same time from all the cringe and disgust lol, that's how I feel. [AHHH look it's Dunning-Freddy-Kruger :joy:](https://researchers.cedars-sinai.edu/Jason.Moore/photo)
