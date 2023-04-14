@@ -11,7 +11,7 @@ These are most likely him, that's most likely his IP address. Click on `diff` to
 * [July, 2 2021](https://en.wikipedia.org/wiki/Special:Contributions/108.52.172.227)
 * [December 18, 2021](https://en.wikipedia.org/wiki/Special:Contributions/108.52.165.45) he made himself a data scientist here, again, with no formal training whatsoever. anyone can wikipedia, even jason moore.
 
-Aside: He's updating [his own Wikipedia page](https://en.wikipedia.org/w/index.php?title=Jason_H._Moore&action=history) because no one else will :joy: 
+Aside: He's updating [his own Wikipedia page](https://en.wikipedia.org/w/index.php?title=Jason_H._Moore&action=history) because no one else will :joy: yeah i looked up other Professors he may be stalking ... they're not updating their own Wikipedia pages, it's getting updated by other well known Wikipedia users with actual accounts. lol sad.
 
 This dude has no friends, total freakshow incel.
 
