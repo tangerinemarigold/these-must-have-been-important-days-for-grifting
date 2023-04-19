@@ -6,9 +6,11 @@ These are most likely him, that's most likely his IP address. Click on `diff` to
     * [14:44, 6 May 2017 diff hist](https://en.wikipedia.org/w/index.php?title=Jason_H._Moore&diff=prev&oldid=779017139&diffmode=source): `current work also focuses on methods and software for accessible artificial intelligence<ref>{{Cite journal|last=Olson|first=Randal S.|last2=Sipper|first2=Moshe|last3=La Cava|first3=William|last4=Tartarone|first4=Sharon|last5=Vitale|first5=Steven|last6=Fu|first6=Weixuan|last7=Holmes|first7=John H.|last8=Moore|first8=Jason H.|date=2017-05-01|title=A System for Accessible Artificial Intelligence|url=http://arxiv.org/abs/1705.00594|journal=arXiv:1705.00594 [cs]}}</ref><ref>{{Cite web|url=https://motherboard.vice.com/en_us/article/researchers-want-people-to-seize-the-means-of-ai-production-penn-ai|title=These Researchers Want the People to Seize the Means of AI Production|website=Motherboard|language=en-us|access-date=2017-05-06}}</ref>.`
     * from the article ""Commercial AI packages don't make the source code available, and you have no idea what's going on in there," said Moore. "That's one of the benefits of an open source AI package: everyone can see what it's doing." "you have no idea what's going on in there" yeah no ... that's not true. it's sometimes true, but generally not true
     * "Moore hopes to also implement a Clippy-like virtual assistant to guide users." i wonder wtf this was supposed to be and who was supposed to work on it lol
+* [pennai.org registered on 05-16-2017](https://www.whois.com/whois/pennai.org) see changes on [waybackmachine](https://web.archive.org/web/changes/pennai.org)
 * [August 29, 2017 & Sep 1, 2017 & December 17, 2017](https://en.wikipedia.org/wiki/Special:Contributions/173.49.21.194)
    * [August 29, 2017](https://en.wikipedia.org/w/index.php?title=Jason_H._Moore&diff=prev&oldid=797753654&diffmode=source) ohhh ooppsss 2017 not 2018, this could be related to other interviews i had in 2017 that may have reached out to him around this time.
    * [December 17, 2017](https://en.wikipedia.org/w/index.php?title=Marylyn_D._Ritchie&diff=prev&oldid=815774553&diffmode=source): I know why and to what this was changed around this time, but I won't say it here.
+* [automl registered on 07-23-2017](https://www.whois.com/whois/automl.info) see changes on [waybackmachine](https://web.archive.org/web/changes/automl.info)
 * [July, 29 2018](https://en.wikipedia.org/wiki/Special:Contributions/74.103.149.238) hmm this date is a mystery to me, not sure what triggered it, could be something from your end, something did trigger this though. @ 9:03 am, first thing in the morning too lol. July 18, 2018, I responded to when James Taylor (RIP) @ JHU asked me for my references and I emailed him back with Jason's email along with a few other people (7 references in total). Perhaps, that could have triggered this.
 * [February 23, 2019](https://en.wikipedia.org/wiki/Special:Contributions/72.94.81.68) so this likely has to do with the Weill Cornell Phd Program, probably reaching out to him etc. they must have sent him my personal statement around this time and etc. and he lost his mind bc he thought i was trying to copy his mediocre work when i could care less or whatever psychotic episode he was going through at the time.
    * [his edits including his link to his twitter were removed LOL](https://en.wikipedia.org/w/index.php?title=Jason_H._Moore&diff=prev&oldid=884747414&diffmode=source)
@@ -26,19 +28,25 @@ This dude has no friends, failed personal relationships (including his own marri
 4/14 - im actually really busy all day today so i will come back to this over the weekend .. this is important lawyer work .. he's legitimizing himself via wikipedia and twitter, by himself, not via other people. it's all himself, self-promotion to stay afloat in a competitive field, so pathetic. This **proves** that he's been spying/stalking people at wcmc and me since 2017 and he has an extreme inferiority complex and gets personally triggered by other peoples happiness and success -- that he just cant achieve for himself, ever.
 
 # How Jason Moore attempts to legitimize himself in academia: the long con
-* Publish papers to the Journal he is EIC of
-* Update his own Wikipedia page/pages :joy:
-* Recruit former students as Faculty (bc no one else will hire them)
-* Follow random people on Twitter to bring up his follower count
-* Tweet articles that he likely doesnt completely read and use the hashtags #bioinformatics #artificialintelligence #machinelearning -- all areas he has no training in from Grad school (i.e. he never studied under a Professor who has training in this area)
-* Cite his own papers
-* Have his former/current students, people in his cult, cite his papers, their own papers etc.
-* Publish work in AI that gets 0 citations, in other words, its not interesting, no one reads it, no one cites it
-* Pursue frivolous intellectual property lawsuits/whatever
-* Stalk former employees
-* Stalk potential employers of former employees
-* Stalk perhaps the private lives of potential employers of former employees
-* Defame/slander people to make himself seem more legit and knowing of things even though he's a half-wit
-* Name your software after the school: e.g. "PennAI" to use the name of the school to legitimize and bring attention to your otherwise average work with barely any citations
+*	Publish papers to the Journal he is EIC of (BioData Mining with an impact factor = 4.079 (as of 2021))
+*	Frequently update his own Wikipedia page and then also the Wikipedia page of Marylyn Ritchie (did she ask him to do this, I don’t get it?)
+*	Recruit former students as Post-docs/Faculty (because no one else will hire them) because he selects or attracts people with low self-esteem that cannot think except for what he tells them to, so they can’t really make it out on their own after being his student. They cannot survive without his connections and ideas (e.g. epistasis), which aren’t that great either.
+*	Follow random people on Twitter to bring up his follower count
+*	Tweet articles that he likely doesn’t completely read and use the hashtags #bioinformatics #artificialintelligence #machinelearning -- all areas he has no training in from Grad school (i.e. he never studied under a Professor who has training in this area. He has never published in top journals/conferences in AI/ML.)
+*	Cite his own papers
+*	Publish these “10 top lists” type of papers that only reference his work in the citations (so veiled self-promotion) and they don’t get much citations, if any. They’re just there, they just exist to bloat a CV. They otherwise could have been blog posts.
+*	Have his former/current students, people in his cult, cite his papers, their own papers etc.
+*	Publish work in AI that gets 0 citations, in other words, it’s not interesting, no one reads it, no one cites it. It’s just there, it just exists to bloat his CV. Or lick cookies, so he can say “hey I came up with it first” etc.
+*	Pursue frivolous intellectual property lawsuits/whatever
+*	Stalk/spy on former (a) employee(s)
+*	Stalk/spy on potential employers of former employees
+*	Stalk/spy on the private lives of potential employers of former employees
+*	Defame/slander via racism and misogyny people to make himself seem more legit and knowing of things even though he's a half-wit
+*	Name his software after the school: e.g. "PennAI" to use the name of the school to legitimize and bring attention to his otherwise average work with barely any citations
+*	Build meeting rooms that no one really needs like the Idea Factory
+*	Hire the “Paul Wang” type to run a Bioinformatics Core, someone completely underqualified who does not publish which is bizarre for Directors of Bioinformatics Cores – but Jason has no training in bioinformatics ... except what he picked up on Wikipedia ... how would he know the difference when someone is qualified or isn’t.
+
+
+
 
 What is it called when you can't stop laughing but you also want to vomit at the same time from all the cringe and disgust lol, that's how I feel. [AHHH look it's Dunning-Freddy-Kruger :joy:](https://researchers.cedars-sinai.edu/Jason.Moore/photo)
