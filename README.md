@@ -46,7 +46,9 @@ This dude has no friends, failed personal relationships (including his own marri
 *	Build meeting rooms that no one really needs like the Idea Factory
 *	Hire the “Paul Wang” type to run a Bioinformatics Core, someone completely underqualified who does not publish which is bizarre for Directors of Bioinformatics Cores – but Jason has no training in bioinformatics ... except what he picked up on Wikipedia ... how would he know the difference when someone is qualified or isn’t.
 * Buy domain names for projects when it's really supposed to be hosted on *.penn.edu
-
-
+* [claiming as an author to a article to extremetech.com that he has formal training in AI when he never did or that he knows what data science is](https://www.extremetech.com/extreme/319005-the-day-i-learned-what-data-science-is)
+   * "My own academic training is grounded in a specific biological application domain but with __formal training in artificial intelligence (AI),__ complex adaptive systems, and statistics. I didn't know it at the time, but my cross-disciplinary training prepared me very well for a career in data science."
 
 What is it called when you can't stop laughing but you also want to vomit at the same time from all the cringe and disgust lol, that's how I feel. [AHHH look it's Dunning-Freddy-Kruger :joy:](https://researchers.cedars-sinai.edu/Jason.Moore/photo)
+
+This is all going to look very bad in front of a judge
