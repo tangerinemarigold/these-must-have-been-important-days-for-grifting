@@ -45,7 +45,7 @@ This dude has no friends, failed personal relationships (including his own marri
 *	Name his software after the school: e.g. "PennAI" to use the name of the school to legitimize and bring attention to his otherwise average work with barely any citations
 *	Build meeting rooms that no one really needs like the Idea Factory
 *	Hire the “Paul Wang” type to run a Bioinformatics Core, someone completely underqualified who does not publish which is bizarre for Directors of Bioinformatics Cores – but Jason has no training in bioinformatics ... except what he picked up on Wikipedia ... how would he know the difference when someone is qualified or isn’t.
-
+* Buy domain names for projects when it's really supposed to be hosted on *.penn.edu
 
 
 
