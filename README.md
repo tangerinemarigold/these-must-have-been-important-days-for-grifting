@@ -52,9 +52,12 @@ This dude has no friends, failed personal relationships (including his own marri
 What is it called when you can't stop laughing but you also want to vomit at the same time from all the cringe and disgust lol, that's how I feel. [AHHH look it's Dunning-Freddy-Kruger :joy:](https://researchers.cedars-sinai.edu/Jason.Moore/photo)
 
 # Jason Moore's Education/Training Discrepancies and Claims
-* [claiming as an author to a article to extremetech.com that he has formal training in AI when he never did or that he knows what data science is](https://www.extremetech.com/extreme/319005-the-day-i-learned-what-data-science-is)
+* [January 11, 2021 claiming as an author to a article to extremetech.com that he has formal training in AI when he never did or that he knows what data science is](https://www.extremetech.com/extreme/319005-the-day-i-learned-what-data-science-is)
    * "My own academic training is grounded in a specific biological application domain but with __formal training in artificial intelligence (AI),__ complex adaptive systems, and statistics. I didn't know it at the time, but my cross-disciplinary training prepared me very well for a career in data science."
+   * the article reads as something written by an enthusiast and hobbyist, really, it truely does, because he does not have the training in the area, he did not do the work, but he's telling people how the field is suppose to work
+   * very bizarre and weird, there are no citations to his claims in the article from sources in data science, it's just his personal experience and (lack of) understanding that he keeps mentioning
 * according to [this (persoanl webpage):](https://jasonhmoore.org/education/) 
    * "I also took several courses in the Center for the Study of Complex Systems." so he never took classes in Computer Science or AI or Computational Biology, never recieved a degree in Complex Systems, Computer Science/AI
+
 
 This is all going to look very bad in front of a judge
