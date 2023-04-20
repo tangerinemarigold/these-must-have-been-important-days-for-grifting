@@ -28,6 +28,8 @@ This dude has no friends, failed personal relationships (including his own marri
 
 4/14 - im actually really busy all day today so i will come back to this over the weekend .. this is important lawyer work .. he's legitimizing himself via wikipedia and twitter, by himself, not via other people. it's all himself, self-promotion to stay afloat in a competitive field, so pathetic. This **proves** that he's been spying/stalking people at wcmc and me since 2017 and he has an extreme inferiority complex and gets personally triggered by other peoples happiness and success -- that he just cant achieve for himself, ever.
 
+4/20 - i discovered another website that big ugly jason has been depositing information into, a lot after more after 2017 than previous years. there's information depositing on Feb 23 and April 23 over the years. So this has been a seriously deep obsession for him, **like this is one of the worst stalker types ever possible.** there are other things i found that i wont say here, but he's CLEARLY very very mentally ill, it doesnt seem like hes been getting any help at all
+
 # How Jason Moore attempts to legitimize himself in academia: the long con
 *	Publish papers to the Journal he is EIC of (BioData Mining with an impact factor = 4.079 (as of 2021))
 *	Frequently update his own Wikipedia page and then also the Wikipedia page of Marylyn Ritchie (did she ask him to do this, I don’t get it?)
