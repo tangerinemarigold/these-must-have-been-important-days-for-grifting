@@ -64,5 +64,12 @@ What is it called when you can't stop laughing but you also want to vomit at the
 * according to [this (persoanl webpage):](https://jasonhmoore.org/education/) 
    * "I also took several courses in the Center for the Study of Complex Systems." so he never took classes in Computer Science or AI or Computational Biology, never recieved a degree in Complex Systems, Computer Science/AI
 * [lying about his Masters degree, also this is quite hilarious](https://github.com/tangerinemarigold/Hey_Jason_Moore____ThisIsJustTheBeginningOfYourSelf-InflictedDownfall_DontBlameMeOrOthersEver/blob/main/Screen%20Shot%202023-04-19%20at%207.48.00%20AM.png) so if he can lie about his degree, he can lie about anything really
-
+* [this contains the ToC for the thesis that jason submitted](https://www.proquest.com/openview/2f865a3b4099031be7e6f2cc7b743a0e/1?pq-origsite=gscholar&cbl=18750&diss=y)
+   * there's nothing in the ToC that even hints at anything to do with artificial intelligence, machine learning, computer science and bioinformatics (microarrays existed at that time)
+   * looks very average from the ToC, incredibly average
+   * looks like he did lab work during his PhD
+   * [seems like hes been copying off his phd advisors interest in complex systems all along, chicken or the egg i dont know who decided to work on complex systems first, who influenced who, who is the bigger hobbyist/enthusiast: jason or his phd advisor](https://medicine.umich.edu/dept/human-genetics/charles-sing-phd#websites)
+   
+   
+   
 This is all going to look very bad in front of a judge
