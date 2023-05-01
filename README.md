@@ -14,6 +14,8 @@ These are most likely him, that's most likely his IP address. Click on `diff` to
    * hes a lunatic, absolutely
    * but we know what he was thinking about at the time and what added to the reasons that led him to be so very likely angry and reckless while driving, weird, super weird, 
    * batshit crazy, cannot emphasize this enough
+   * 2fast2furious2batshitcrazy
+   * oh so he had to go to court, which means he got a lawyer and went in front of a judge to plead guilty for speeding LOL as a 50 years old man, thats so weird. whackjob, completely, complete lunatic. w-e-i-r-d
 * [August 29, 2017 & Sep 1, 2017 & December 17, 2017](https://en.wikipedia.org/wiki/Special:Contributions/173.49.21.194)
    * [August 29, 2017](https://en.wikipedia.org/w/index.php?title=Jason_H._Moore&diff=prev&oldid=797753654&diffmode=source) ohhh ooppsss 2017 not 2018, this could be related to other interviews i had in 2017 that may have reached out to him around this time.
    * [December 17, 2017](https://en.wikipedia.org/w/index.php?title=Marylyn_D._Ritchie&diff=prev&oldid=815774553&diffmode=source): I know why and to what this was changed around this time, but I won't say it here.
