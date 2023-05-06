@@ -46,6 +46,14 @@ These are most likely him, that's most likely his IP address. Click on `diff` to
 
 # 2023
 
+# 2024
+
+# 2025
+
+# 2026
+
+# 2027
+
 
 Aside: He's updating [his own Wikipedia page](https://en.wikipedia.org/w/index.php?title=Jason_H._Moore&action=history) because no one else will :joy: yeah i looked up other Professors he may be stalking ... they're not updating their own Wikipedia pages, it's getting updated by other well known Wikipedia users with actual accounts. lol sad.
 
@@ -100,3 +108,5 @@ What is it called when you can't stop laughing but you also want to vomit at the
    
    
 This is all going to look very bad in front of a judge
+
+This is going to go on, legally for years, a lot happened
