@@ -111,3 +111,5 @@ What is it called when you can't stop laughing but you also want to vomit at the
 This is all going to look very bad in front of a judge
 
 This is going to go on, legally for years, a lot happened
+
+These people are dumb enough to commit perjury, I'm calling it now because the whole point is to save face. This can go on for over a decade, back and forth, back and forth. Ugh.
