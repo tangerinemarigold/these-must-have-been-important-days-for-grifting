@@ -106,8 +106,14 @@ What is it called when you can't stop laughing but you also want to vomit at the
    * looks like he did lab work during his PhD
    * [seems like hes been copying off his phd advisors interest in complex systems all along, chicken or the egg i dont know who decided to work on complex systems first, who influenced who, who is the bigger hobbyist/enthusiast: jason or his phd advisor](https://medicine.umich.edu/dept/human-genetics/charles-sing-phd#websites)
    
-   
-   
+# Some Notes
+(complete notes are private)
+* [Dead cat strategy](https://en.wikipedia.org/wiki/Dead_cat_strategy)
+
+
+
+
+# Etc
 This is all going to look very bad in front of a judge
 
 This is going to go on, legally for years, a lot happened
