@@ -105,7 +105,14 @@ What is it called when you can't stop laughing but you also want to vomit at the
    * looks very average from the ToC, incredibly average
    * looks like he did lab work during his PhD
    * [seems like hes been copying off his phd advisors interest in complex systems all along, chicken or the egg i dont know who decided to work on complex systems first, who influenced who, who is the bigger hobbyist/enthusiast: jason or his phd advisor](https://medicine.umich.edu/dept/human-genetics/charles-sing-phd#websites)
-   
+
+# Topics and News that doesn't make it to Jason's Twitter at all, suspiciously ... perhaps because it hits too close to home (if you catch my drift) ... not perhaps, but that's exactly why
+* Trumps indictment ... anything (bc he knows he's next :joy:)
+* George Santos ... anything (bc jason knows exactly who George Santos is and what he's doing)
+* [Fake scientific papers are alarmingly common](https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common)
+* `#metoo` anything ... oh wait there was a tweet but it was immediately deleted
+
+
 # Some Notes
 (complete notes are private)
 * [Dead cat strategy](https://en.wikipedia.org/wiki/Dead_cat_strategy)
