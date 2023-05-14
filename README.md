@@ -111,6 +111,10 @@ What is it called when you can't stop laughing but you also want to vomit at the
 * George Santos ... anything (bc jason knows exactly who George Santos is and what he's doing)
 * [Fake scientific papers are alarmingly common](https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common)
 * `#metoo` anything ... oh wait there was a tweet but it was immediately deleted
+* some life hack article on how to deal with and come to terms with one's own uglinesses and that it's rapidly only getting worse every single day :joy:
+* some life hack article on what to do when your wife leaves you ... because youve been stalking a resigned employee for 6 years after they resigned, who thought you were a dumbass the entire time and now thinks youre a bigger dumbass
+* some life hack article on what to do if youre consistently the dumbest person in the room every time youre in a different room ... and people keep leaving your shithole, hmmmmmm maybe you were the problem the entire time
+* some life hack article on what to do when you commit perjury (because we all know you're going to do that)
 
 
 # Some Notes
