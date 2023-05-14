@@ -108,14 +108,15 @@ What is it called when you can't stop laughing but you also want to vomit at the
 
 # Topics and News that doesn't make it to Jason's Twitter at all, suspiciously ... perhaps because it hits too close to home (if you catch my drift) ... not perhaps, but that's exactly why
 * Trumps indictment ... anything (bc he knows he's next :joy:)
-* George Santos ... anything (bc jason knows exactly who George Santos is and what he's doing)
+* George Santos ... anything (bc jason knows exactly who George Santos is and what he's doing. In fact, jason's been taking notes on George Santos, is extremely impressed, and keeps saying to himself ["wow, I never thought of that one before."](https://nymag.com/intelligencer/article/guide-george-santos-lies.html))
 * [Fake scientific papers are alarmingly common](https://www.science.org/content/article/fake-scientific-papers-are-alarmingly-common)
 * `#metoo` anything ... oh wait there was a tweet but it was immediately deleted
 * some life hack article on how to deal with and come to terms with one's own uglinesses and that it's rapidly only getting worse every single day :joy:
-* some life hack article on what to do when your wife leaves you ... because youve been stalking a resigned employee for 6 years after they resigned, who thought you were a dumbass the entire time and now thinks youre a bigger dumbass
+* some life hack article on what to do when your wife leaves you ... because youve been stalking a resigned employee for 6 years after they resigned, who knew you were a dumbass the entire time and now know youre a bigger dumbass
 * some life hack article on what to do if youre consistently the dumbest person in the room every time youre in a different room ... and people keep leaving your shithole, hmmmmmm maybe you were the problem the entire time
 * some life hack article on what to do when you commit perjury (because we all know you're going to do that)
-
+* some life hack article on what to do when you keep soiling your underwear every single day because of forthcoming legal issues you will face for situations you created out of thin air because youre a dumbass
+* some wikihow article on how to put a ruler inside your mouth (refering to jason's mouth), to measure how "big" Rand Paul is ... or some lookalike jason found with the same curly hair and suit and said to himself "close enough"
 
 # Some Notes
 (complete notes are private)
