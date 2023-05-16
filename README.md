@@ -118,6 +118,12 @@ What is it called when you can't stop laughing but you also want to vomit at the
 * some life hack article on what to do when you keep soiling your underwear every single day because of forthcoming legal issues you will face for situations you created out of thin air because youre a dumbass
 * some wikihow article on how to put a ruler inside your mouth (refering to jason's mouth), to measure how "big" Rand Paul is ... or some lookalike jason found with the same curly hair and suit and said to himself "close enough"
 
+# Victims or sometimes co-conspirators of Jason's Grifting and Long Con
+* [St. Jude i.e. children with cancer](https://github.com/tangerinemarigold/these-must-have-been-important-days-for-grifting/blob/main/Screenshot%202023-05-15%20at%2010.03.26%20PM.png)
+* [The unemployed](https://raw.githubusercontent.com/tangerinemarigold/Hey_Jason_Moore_and_Isaac_Kohane_You-Will-Face-Jail-Time-For-Fraud_Spying_And_Stalking/main/Screenshot%202023-05-12%20at%201.00.00%20PM.png)
+* [The elderly who have difficulty reading and forming sentences of substance, who are easily impressed and are quite credulous](https://github.com/tangerinemarigold/Hey_Jason_Moore_and_Isaac_Kohane_You-Will-Face-Jail-Time-For-Fraud_Spying_And_Stalking/blob/main/Screenshot%202023-05-15%20at%209.58.52%20PM.png)
+* People with no friends
+
 # Some Notes
 (complete notes are private)
 * [Dead cat strategy](https://en.wikipedia.org/wiki/Dead_cat_strategy)
