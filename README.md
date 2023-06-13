@@ -46,6 +46,7 @@ These are most likely him, that's most likely his IP address. Click on `diff` to
 # 2022
 
 # 2023
+* [the beginning of the end via wikipedia (where it all began, it seems)](https://github.com/tangerinemarigold/these-must-have-been-important-days-for-grifting/blob/main/Screenshot%202023-06-13%20at%209.50.14%20AM.png)
 
 # 2024
 
