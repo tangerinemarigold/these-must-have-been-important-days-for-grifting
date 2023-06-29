@@ -48,7 +48,8 @@ These are most likely him, that's most likely his IP address. Click on `diff` to
 # 2023
 * [the beginning of the end via wikipedia (where it all began, it seems)](https://github.com/tangerinemarigold/these-must-have-been-important-days-for-grifting/blob/main/Screenshot%202023-06-13%20at%209.50.14%20AM.png)
 * [getting added to this list with other losers: "As a CBC News column noted in 2001, the term (-gate) may "suggest unethical behaviour and a cover-up"](https://en.wikipedia.org/wiki/List_of_-gate_scandals_and_controversies)
-
+* [June 28, 2023](https://github.com/tangerinemarigold/Hey_Jason_Moore_and_Isaac_Kohane_You-Mad-Rejects-Will-Face-Jail-Time-For-Fraud_Spying_And_Stalking/blob/main/Screenshot%202023-06-28%20at%207.08.11%20PM.png) gives us some clues as to what that whole thing on Twitter he does all day, is all about and almost a confession.
+  
 # 2024
 
 # 2025
